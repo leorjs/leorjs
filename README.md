@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center"> Hey, Soy Leo --> Time coffee, Music and Tech 👋 </h1>
 </div>
-<img src></img>
+<!-- <img src="https://github.com/leorjs/leorjs/assets/119978221/3193e764-4ebe-4aa8-8882-41b629ce1624">-->
+
 
 <!--
 **leorjs/leorjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Sobre mi
-- 1
-- 2
-- 3
-- 4
+- En las olas del aprendizaje siempre estaré.
+- Amante del café
+- La música y la tecnología la combinación perfecta.
+- La comunidad y las buenas amistades en Tech es el mejor complemento para el crecimiento profesional y personal.
 <br>
 
 ## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
